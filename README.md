@@ -15,12 +15,12 @@
  
    💥 [**Check out my portfolio here!**](https://abhishekgopalaiah.github.io/) 💥
 
+
+<!--
+**abhishekgopalaiah/abhishekgopalaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://github.com/abhishekgopalaiah">
   <img align="center" height="180px" style="margin-right:10px" src="https://github-readme-stats.vercel.app/api?username=abhishekgopalaiah&count_private=true&show_icons=true&theme=radical" />
 </a>
-<!--
-**abhishekgopalaiah/abhishekgopalaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

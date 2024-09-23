@@ -8,7 +8,7 @@
  
 - 📫 How to reach me: ...
   - **Email:** [abhishek.g9321@gmail.com](mailto:abhishek.g9321@gmail.com)
-  - **LinkedIn:** [linkedin.com/in/abhishekgopalaiah](https://www.linkedin.com/in/abhishekgopalaiah/)
+  - **LinkedIn:** [linkedin.com/in/abhishek-gopalaiah](https://www.linkedin.com/in/abhishek-gopalaiah/)
   - **GitHub:** [github.com/abhishekgopalaiah](https://github.com/abhishekgopalaiah)
   - **YouTube:** [Tech Jaala](https://www.youtube.com/@techjaala9230)
   - **Blog:** [TechJaala Blog](https://techjaala.blogspot.com/)

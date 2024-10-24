@@ -4,7 +4,7 @@
   - **Python:** Proficient in Python programming, including data manipulation, algorithm development, and application design.
   - **Spark:** Experienced with Apache Spark for large-scale data processing and analytics.
   - **SQL:** Skilled in writing complex SQL queries, database design, and optimization.
-  - **AWS:** AWS Certified Solutions Architect – Associate. Experienced in deploying, managing, and scaling applications on AWS.
+  - **AWS:** AWS Certified Solutions Architect – Associate: Experienced in deploying, managing, and scaling applications on AWS.
  
 - 📫 How to reach me: ...
   - **Email:** [abhishek.g9321@gmail.com](mailto:abhishek.g9321@gmail.com)
